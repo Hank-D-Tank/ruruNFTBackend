@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# Build output
+build/
+dist/
+
+# System files
+.DS_Store
+.idea/
+.vscode/
+
+# Optional: Other files or directories to ignore
+*.log
+*.tmp
